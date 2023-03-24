@@ -1,4 +1,4 @@
-package Evaluacion2;
+
 
 public class TablaEnteros {
 	
@@ -34,4 +34,6 @@ public class TablaEnteros {
 				return i;
 		throw new java.util.NoSuchElementException("No existe: " + n);
 	}
-}//
+	
+	//Comentario en nueva rama
+}
